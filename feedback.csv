@@ -1,0 +1,5 @@
+story_id,format,sentiment,title,clarity,engagement,understanding,preference,match_expectation
+1,linear,,War in Ukraine: Taking cover in a town under attack,Unclear,Not engaging,nothing claer,,
+1,nonlinear,positive,Obama jokes with 'Vice-President Biden' at White House,,Somewhat engaging,goos stuff,Nonlinear,Yes
+1,linear,,War in Ukraine: Taking cover in a town under attack,Unclear,Not engaging,Nothing,,
+1,nonlinear,positive,When Mikhail Gorbachev visited Margaret Thatcher in Downing Street,,Very engaging,Good stuff,Nonlinear,Yes
