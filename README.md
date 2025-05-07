@@ -1,6 +1,6 @@
 from pathlib import Path
 
-# Define the README content
+# README content
 readme_content = """
 # 📚 Interactive Storytelling App
 
