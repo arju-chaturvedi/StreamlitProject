@@ -1,6 +1,6 @@
 from pathlib import Path
 
-# README content
+# README 
 readme_content = """
 # 📚 Interactive Storytelling App
 
