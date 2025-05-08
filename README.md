@@ -51,7 +51,7 @@ All feedback is saved to `feedback.csv` for later analysis.
 This shows the linear vs nonlinear comparison screen:
 
 ![Storytelling App](https://github.com/arju-chaturvedi/StreamlitProject/blob/main/Screenshot%202025-05-08%20at%201.57.03%20AM.png)
-(https://github.com/arju-chaturvedi/StreamlitProject/blob/main/Screenshot%202025-05-08%20at%201.56.55%20AM.png)
+![Storytelling App](https://github.com/arju-chaturvedi/StreamlitProject/blob/main/Screenshot%202025-05-08%20at%201.56.55%20AM.png)
 
 
 ### 🚀 Run Locally
