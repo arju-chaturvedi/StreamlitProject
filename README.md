@@ -46,6 +46,13 @@ All feedback is saved to `feedback.csv` for later analysis.
 
 ---
 
+### 📸 Interface Overview
+
+This shows the linear vs nonlinear comparison screen:
+
+![Storytelling App](images/story_mode_preview.png)
+
+
 ### 🚀 Run Locally
 
 #### 1. Clone the Repo
